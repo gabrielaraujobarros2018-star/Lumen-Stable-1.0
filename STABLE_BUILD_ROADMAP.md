@@ -13,6 +13,10 @@
 - Battery life prediction algorithms
 - Thermal throttling refinements
 
+### Beta Features
+- Added compatibility to a Variety of newer Motorola And Xiaomi devices from 2020 to 2026 (Xiaomi: 5+, Motorola: 10+)
+- ARM64 Support
+
 ## Stable 3.0 (2029) - Networking & Mobility
 - Full Wi-Fi/Bluetooth/Ethernet stack
 - USB gadget & OTG modes
@@ -20,6 +24,8 @@
 - VPN & firewall primitives
 - Network diagnostics suite
 - Termux-enhanced connectivity
+- Full 2020—2026 Xiaomi and Motorola devices support
+- Full ARM64 Support
 
 ## Stable 4.0 (2030) - Graphics & Input Revolution
 - Hardware-accelerated GPU rendering
