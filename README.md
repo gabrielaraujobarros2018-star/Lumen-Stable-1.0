@@ -3,3 +3,8 @@ These are the Official 1.0 Lumen build planned after the Developer Previews Phas
 
 ## Design (Approximate)
 
+![The planned power menu design for the Stable 1.0 build](planning/final_ui_design/approximate_design/pmmenu.png)
+
+![The planned homescreen design for the Stable 1.0 build](planning/final_ui_design/approximate_design/homescreen.png)
+
+![The planned lock screen design for the Stable 1.0 build](planning/final_ui_design/approximate_design/lock.png)
