@@ -28,3 +28,11 @@ i can't upload literal 65000+ files extracted on MEGA, i have to compact them in
 Heads-up: M3 Snapshot 2 have 65000+ files, so uploading that ammount is impossible to me. i Can upload its source code extracted, but only some lightweight modules under 4mb
 
 With 'M3 -> M5 -> M8 -> Alphis V1 -> Alphis V2 -> Alphis V3 -> Alphis V4 -> Alphis V5 -> Alphis V6 -> DP-1 -> DP-5 -> DP-8 -> DP-11 -> Stable 1.0' Roadmap, We can reach a 14-month Roadmap to Stable 1.0, which by calculating (M3 Started in February 2026, Adding 14 months make Stable 1.0 land in April of 2027), Makes the Stable 1.0 build land on April of the following year if Stable 1.0 is counted as a Monthly build too.
+
+## Phased Plan (Before Stable 1.0)
+
+- **Months 1-4**: Core kernel modules and memory allocators in C; test basic boot on Termux/emulator. Leverage Sololearn for struct optimization.
+
+- **Months 5-9**: Bootloader integration, driver basics (e.g., display/power); emulate Nexus 6 hardware quirks.
+
+- **Months 10-14**: Stability passes—full system services, optimization, hotfix iterations. Balance with Geometry Dash breaks.
