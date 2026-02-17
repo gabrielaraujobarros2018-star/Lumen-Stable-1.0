@@ -12,6 +12,7 @@
 - Lightweight Rust module support
 - Battery life prediction algorithms
 - Thermal throttling refinements
+- Kernel upgrade (Shamu 3.x -> Original 6.11.1)
 
 ### Beta Features
 - Added compatibility to a Variety of newer Motorola And Xiaomi devices from 2020 to 2026 (Xiaomi: 5+, Motorola: 10+)
