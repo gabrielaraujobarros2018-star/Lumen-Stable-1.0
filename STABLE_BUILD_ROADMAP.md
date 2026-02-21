@@ -39,7 +39,7 @@
 
 ### Beta
 - x86, x64, x86-64 Support ABIs
-- Adding Gnome Shell
+- Adding Gnome-Shell (Keeping Phosh)
 - Dropping phone Support for 2021 phones and up (as Phones' Bootloader Unlocking is becoming so hard)
 - Building support for 2019 phones and down
 - Updates stop for 2021 devices and up as 2021—up Phone support is dropping
@@ -52,10 +52,11 @@
 - Root protection mechanisms
 - Backup/sync for multi-device
 - x86, x64, x86-64 Support ABIs Finished and tested
-- Added Gnome Shell
+- Added Gnome Shell (Keep phosh)
 - Dropped phone Support for 2021 phones and up (as Phones' Bootloader Unlocking is becoming so hard)
 - Built support for 2019 phones and down
 - Updates stopped for 2021—up phones
+- Shell switcher (If it's x86/x64/x86-64, Gnome-shell. If it's ARM, Phosh.)
 
 ## Stable 6.0 (2032) - Multimedia & Gaming Hub
 - ALSA/PulseAudio drivers
