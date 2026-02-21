@@ -37,6 +37,13 @@
 - Display power savings
 - Custom shader pipeline
 
+### Beta
+- x86, x64, x86-64 Support ABIs
+- Adding Gnome Shell
+- Dropping phone Support for 2021 phones and up (as Phones' Bootloader Unlocking is becoming so hard)
+- Building support for 2019 phones and down
+- Updates stop for 2021 devices and up as 2021—up Phone support is dropping
+
 ## Stable 5.0 (2031) - Storage & Security Fortress
 - Optimized ext4/Btrfs with encryption
 - FUSE & secure container FS
@@ -44,6 +51,11 @@
 - App permission & auditing system
 - Root protection mechanisms
 - Backup/sync for multi-device
+- x86, x64, x86-64 Support ABIs Finished and tested
+- Added Gnome Shell
+- Dropped phone Support for 2021 phones and up (as Phones' Bootloader Unlocking is becoming so hard)
+- Built support for 2019 phones and down
+- Updates stopped for 2021—up phones
 
 ## Stable 6.0 (2032) - Multimedia & Gaming Hub
 - ALSA/PulseAudio drivers
@@ -55,7 +67,7 @@
 - Streaming protocol support
 
 ## Stable 7.0 (2033) - Multi-Device Expansion
-- Galaxy A05s & ARMv8 ports
+- Galaxy A05s & ARMv8 ports (Dropped)
 - Hardware abstraction layer (HAL)
 - OTA update & rollback system
 - Cross-device migration tools
