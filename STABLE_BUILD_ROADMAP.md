@@ -53,6 +53,7 @@
 - Backup/sync for multi-device
 - x86, x64, x86-64 Support ABIs Finished and tested
 - Added Gnome Shell (Keep phosh)
+- Full PC Support
 - Dropped phone Support for 2021 phones and up (as Phones' Bootloader Unlocking is becoming so hard)
 - Built support for 2019 phones and down
 - Updates stopped for 2021—up phones
