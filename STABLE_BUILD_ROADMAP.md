@@ -40,9 +40,8 @@
 ### Beta
 - x86, x64, x86-64 Support ABIs
 - Adding Gnome-Shell (Keeping Phosh)
-- Dropping phone Support for 2021 phones and up (as Phones' Bootloader Unlocking is becoming so hard)
-- Building support for 2019 phones and down
-- Updates stop for 2021 devices and up as 2021—up Phone support is dropping
+- Dropping phone Support as bootloader unlocking is tightening and maintaining 2 architectures will become unmaintainable
+- Updates stop for phones
 
 ## Stable 5.0 (2031) - Storage & Security Fortress
 - Optimized ext4/Btrfs with encryption
@@ -52,12 +51,11 @@
 - Root protection mechanisms
 - Backup/sync for multi-device
 - x86, x64, x86-64 Support ABIs Finished and tested
-- Added Gnome Shell (Keep phosh)
+- Added Gnome Shell (keep phosh to avoid user having to relearn)
 - Full PC Support
-- Dropped phone Support for 2021 phones and up (as Phones' Bootloader Unlocking is becoming so hard)
-- Built support for 2019 phones and down
-- Updates stopped for 2021—up phones
-- Shell switcher (If it's x86/x64/x86-64, Gnome-shell. If it's ARM, Phosh.)
+- Dropped phone Support entirely
+- Updates stopped for phones (3.0 and down is still flashable)
+- Shell switcher (Real implementation of GUI switcher. Compatible: Phosh and Gnome-Shell.)
 
 ## Stable 6.0 (2032) - Multimedia & Gaming Hub
 - ALSA/PulseAudio drivers
