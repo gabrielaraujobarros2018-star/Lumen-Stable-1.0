@@ -1,22 +1,16 @@
 # Lumen OS Post-Stable 1.0 Roadmap (Yearly Releases)
 ## Stable 1.0 (April 2027) - Baseline Release
-- Core ARMv7a kernel & bootloader stability
+- Core x86/x64/x86-64 kernel & bootloader stability
 - Basic memory management & system services
-- Moto Nexus 6 full compatibility
-- Initial Termux integration
 
 ## Stable 2.0 (2028) - Performance & Power Core
 - Advanced scheduler & caching layers
-- Dynamic power management for microcharging
-- Multi-core ARMv7a optimizations
+- Dynamic power management
+- Multi-core x86/x64/x86-64 optimizations
 - Lightweight Rust module support
 - Battery life prediction algorithms
 - Thermal throttling refinements
 - Kernel upgrade (Shamu 3.x -> Original 6.11.1)
-
-### Beta Features
-- Added compatibility to a Variety of newer Motorola And Xiaomi devices from 2020 to 2026 (Xiaomi: 5+, Motorola: 10+)
-- ARM64 Support
 
 ## Stable 3.0 (2029) - Networking & Mobility
 - Full Wi-Fi/Bluetooth/Ethernet stack
@@ -25,23 +19,14 @@
 - VPN & firewall primitives
 - Network diagnostics suite
 - Termux-enhanced connectivity
-- Full 2020—2026 Xiaomi and Motorola devices support
-- Full ARM64 Support
 
 ## Stable 4.0 (2030) - Graphics & Input Revolution
 - Hardware-accelerated GPU rendering
 - Multi-resolution framebuffer
 - Precision touch & gesture engine
 - Gamepad/sensor fusion layer
-- Geometry Dash native optimizations
 - Display power savings
 - Custom shader pipeline
-
-### Beta
-- x86, x64, x86-64 Support ABIs
-- Adding Gnome-Shell (Keeping Phosh)
-- Dropping phone Support as bootloader unlocking is tightening and maintaining 2 architectures will become unmaintainable
-- Updates stop for phones
 
 ## Stable 5.0 (2031) - Storage & Security Fortress
 - Optimized ext4/Btrfs with encryption
@@ -50,24 +35,19 @@
 - App permission & auditing system
 - Root protection mechanisms
 - Backup/sync for multi-device
-- x86, x64, x86-64 Support ABIs Finished and tested
 - Added Gnome Shell (keep phosh to avoid user having to relearn)
-- Full PC Support
 - Dropped phone Support entirely
-- Updates stopped for phones (3.0 and down is still flashable)
 - Shell switcher (Real implementation of GUI switcher. Compatible: Phosh and Gnome-Shell.)
 
 ## Stable 6.0 (2032) - Multimedia & Gaming Hub
 - ALSA/PulseAudio drivers
 - Hardware video decode/encode
 - Low-latency audio for gaming
-- Geometry Dash modding toolkit
 - Video playback optimizations
 - Camera & sensor multimedia
 - Streaming protocol support
 
 ## Stable 7.0 (2033) - Multi-Device Expansion
-- Galaxy A05s & ARMv8 ports (Dropped)
 - Hardware abstraction layer (HAL)
 - OTA update & rollback system
 - Cross-device migration tools
@@ -125,11 +105,9 @@
 - Privacy auditing tools
 
 ## Stable 14.0 (2040) - Ecosystem Maturity
-- Full APK/Android compatibility
 - Community app store framework
 - Plugin architecture for services
 - Long-term support (LTS) branch
-- Migration to ARMv9 preview
 - Comprehensive test automation
 
 ## Stable 15.0 (2041) - Production Pinnacle
@@ -141,15 +119,3 @@
 - Sustainability power modes
 
 **To be continued...**
-
-Creation message (Perplexity AI):
-
-```
-based on After Stable 1.0, make a feature/development roadmap up to Stable 15.0 then add a "to be continued..." line at the very end of the roadmap
-
-Include 4—8 features in each version
-
-stableb_Roadmap.md in a code fence
-
-after Stable 1.0, all builds will be yearly.
-```
