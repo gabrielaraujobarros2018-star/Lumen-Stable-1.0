@@ -4,10 +4,7 @@
 - Basic memory management & system services
 
 ### Beta
-- GNOME MODIFICATION #1: Frutiger Aero implementations
-- Frutiger Aero Glow
 - LUMEN SETTINGS 0.5 App
-- OS-Level Multitasking 1.0
 - Funny Events
 
 ## Stable 2.0 (2028) - Performance & Power Core
@@ -17,11 +14,7 @@
 - Lightweight Rust module support
 - Battery life prediction algorithms
 - Thermal throttling refinements
-- Kernel upgrade (Shamu 3.x -> Original 6.11.1)
-- GNOME MODIFICATION #1: Frutiger Aero full
-- Frutiger Aero Glow
 - LUMEN SETTINGS 1.0 App
-- OS-Level Multitasking 1.5
 - Funny Events
 
 ### Beta
