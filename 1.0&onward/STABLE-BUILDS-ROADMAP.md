@@ -3,6 +3,13 @@
 - Core x86/x64/x86-64 kernel & bootloader stability
 - Basic memory management & system services
 
+### Beta
+- GNOME MODIFICATION #1: Frutiger Aero implementations
+- Frutiger Aero Glow
+- LUMEN SETTINGS 0.5 App
+- OS-Level Multitasking 1.0
+- Funny Events
+
 ## Stable 2.0 (2028) - Performance & Power Core
 - Advanced scheduler & caching layers
 - Dynamic power management
@@ -11,6 +18,16 @@
 - Battery life prediction algorithms
 - Thermal throttling refinements
 - Kernel upgrade (Shamu 3.x -> Original 6.11.1)
+- GNOME MODIFICATION #1: Frutiger Aero full
+- Frutiger Aero Glow
+- LUMEN SETTINGS 1.0 App
+- OS-Level Multitasking 1.5
+- Funny Events
+
+### Beta
+- Real-time System File Modification 'Apply' Button
+- Clipboard
+- Real-time Screen Resizing
 
 ## Stable 3.0 (2029) - Networking & Mobility
 - Full Wi-Fi/Bluetooth/Ethernet stack
@@ -27,6 +44,9 @@
 - Gamepad/sensor fusion layer
 - Display power savings
 - Custom shader pipeline
+- Real-time System File Modification 'Apply' Button
+- Clipboard
+- Real-time Screen Resizing
 
 ## Stable 5.0 (2031) - Storage & Security Fortress
 - Optimized ext4/Btrfs with encryption
